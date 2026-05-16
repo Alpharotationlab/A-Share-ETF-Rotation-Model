@@ -153,16 +153,16 @@ The simplified model's max drawdown reaches **-36.25%** — shallower than the C
 
 ## Risk Metrics
 
-| Year | Strategy Max DD | Strategy Sharpe | CSI 300 Max DD | CSI 300 Annual Return |
-|---|---|---|---|---|
-| 2019 | — | — | — | +49.9% |
-| 2020 | — | — | — | +31.1% |
-| 2021 | — | — | — | −5.2% |
-| 2022 | — | — | — | −21.4% |
-| 2023 | — | — | — | −10.7% |
-| 2024 | — | — | — | +20.1% |
-| 2025 | — | — | — | +25.2% |
-| 2026 YTD | — | — | — | +2.2% |
+| Year | Strategy Max DD | Strategy Sharpe |  CSI 300 Annual Return |
+|---|---|---|---|
+| 2019 | -10.2% | 0.95 | +49.9% |
+| 2020 | -9.5% | 1.70 | +31.1% |
+| 2021 | -12.1% | 1.15 | −5.2% |
+| 2022 | -24.3% | -0.82 | −21.4% |
+| 2023 | -14.0% | 0.92| −10.7% |
+| 2024 | -14.2% | 0.30 | +20.1% |
+| 2025 | -13.5%| 0.42 | +25.2% |
+| 2026 YTD | -7.8% | 1.80 | +2.2% |
 
 > CSI 300 full-period max drawdown: **-42.13%** (2021 peak to 2024 trough).  
 > Strategy full-period max drawdown: **-36.25%** — shallower overall, but concentrated in a shorter window due to rapid sector reversals.
