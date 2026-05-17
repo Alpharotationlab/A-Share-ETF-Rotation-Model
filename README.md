@@ -252,8 +252,6 @@ For extended research updates and live model tracking:
 - **US ETF Rotation Model only** – [Access research materials →](https://alpharotationlab.lemonsqueezy.com/checkout/buy/694902b7-8a2b-41ea-a120-bf187d644a3c)
 - **Bundle (A-Share + US)** – [Access research materials →](https://alpharotationlab.lemonsqueezy.com/checkout/buy/728eb9e4-1cd1-49e2-b0d7-b853a929f428)
 
-**Real-time model tracking**: Follow the paper portfolio on Xueqiu at **[ZH3624703](https://xueqiu.com/P/ZH3624703)** for live updates of the A-Share ETF rotation model.
-
 ---
 
 ## Installation
